@@ -1,3 +1,5 @@
 .first-class {background-color: hsl(0, 0%, 0%);
  color: #ffffff;
 font-weight: bold;}
+
+.second-class {background-color: rgb(255, 255, 0)}
